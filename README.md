@@ -9,7 +9,6 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 ## Algorithm
 1. Import standard libraries in python for finding Decision tree regressor model for predicting the salary of the employee.
-
 2. Initialize and print the Data.head(),data.info(),data.isnull().sum()
 
 3. Visualize data value count.
@@ -34,7 +33,6 @@ RegisterNumber:  212221040038
 ```
 
 import pandas as pd
-
 data=pd.read_csv("/content/Salary.csv")
 
 data.head()
