@@ -32,6 +32,8 @@ RegisterNumber:  212221040038
 import pandas as pd
 data=pd.read_csv("/content/Salary.csv")
 
+print("Data.head():")
+
 data.head()
 
 data.isnull().sum()
@@ -39,10 +41,18 @@ data.isnull().sum()
 from sklearn.preprocessing import LabelEncoder
 
 le=LabelEncoder()
-
+print("data.head() for Salary:")
 data["Position"]=le.fit_transform(data["Position"])
 
+print("data.head() for Salary:")
+
 data.head()
+
+print("Data.info():")
+data.info()
+print("Data.isnull() and Sum():")
+
+data.isnull().sum()
 
 x=data[["Position","Level"]]
 
@@ -61,6 +71,9 @@ dt.fit(x_train,y_train)
 
 y_pred=dt.predict(x_test)
 
+print("MSE Value:")
+
+
 from sklearn import metrics
 
 mse=metrics.mean_squared_error(y_test,y_pred)
@@ -68,13 +81,17 @@ mse=metrics.mean_squared_error(y_test,y_pred)
 mse
 
 r2=metrics.r2_score(y_test,y_pred)
+print("r2 Value:")
 
 r2
+
+print("data prediction:")
 
 dt.predict([[5,6]])
 
 ```
 ## Output:
+
 
 
 ## Result:
