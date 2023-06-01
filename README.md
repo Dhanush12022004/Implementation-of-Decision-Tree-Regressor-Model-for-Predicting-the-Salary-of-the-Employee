@@ -92,6 +92,20 @@ dt.predict([[5,6]])
 ```
 ## Output:
 
+![image](https://github.com/Dhanush12022004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128135558/b96f341c-c759-439a-8441-3b45439bd5f5)
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128135558/7affba19-f2b8-400e-b083-dd7d116acefa)
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128135558/9f80a8af-a688-44be-9a6c-66aecf7339b1)
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128135558/55c033cf-bf45-43d8-b916-b0fd3598ac23)
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128135558/e007e660-b5f5-4a79-9097-5cc1ab3fe0b3)
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128135558/a5856c3f-dd78-42b3-9f74-b8d4c546330e)
+
+![image](https://github.com/Dhanush12022004/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128135558/7be85307-f7d5-43c1-9c75-d0b8fd248c77)
+
 
 
 ## Result:
